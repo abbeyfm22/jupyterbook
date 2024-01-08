@@ -2,6 +2,7 @@
 UW Geospatial Data Analysis  
 CEE467/CEWA567  
 David Shean  
+test test
 
 ## Preparation and discussion
 - Make sure all students are on Jupyterhub (add UW netid from Hub Control Panel if necessary)
